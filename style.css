@@ -1,0 +1,41 @@
+body{
+	background-color:#afb5a7;
+}
+
+h1{
+	color: black;
+	text-align: center;
+}
+
+
+h3{
+	text-align: center;
+}
+
+
+.one{
+	text-align: center;
+}
+
+p{
+	color: black;
+	text-align: center;
+}
+
+.two{
+	text-align: center;
+}
+
+.two-one{
+	display: flex;
+	justify-content: space-around;
+
+}
+
+.three{
+	text-align: center;
+}
+
+.four{
+	text-align: center;
+}
